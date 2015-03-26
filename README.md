@@ -1,2 +1,2 @@
 # DSmall.Azure.Storage
-The azure storage framework.
+The azure storage wrapper framework.
