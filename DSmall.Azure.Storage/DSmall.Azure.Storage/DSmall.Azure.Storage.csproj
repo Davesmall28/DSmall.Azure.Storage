@@ -67,10 +67,16 @@
     <Compile Include="DSmallCloudBlobClient.cs" />
     <Compile Include="DSmallCloudBlobContainer.cs" />
     <Compile Include="DSmallCloudBlockBlob.cs" />
+    <Compile Include="DSmallCloudQueue.cs" />
+    <Compile Include="DSmallCloudQueueClient.cs" />
+    <Compile Include="DSmallCloudQueueMessage.cs" />
     <Compile Include="DSmallCloudStorageAccount.cs" />
     <Compile Include="ICloudBlobClient.cs" />
     <Compile Include="ICloudBlobContainer.cs" />
     <Compile Include="ICloudBlockBlob.cs" />
+    <Compile Include="ICloudQueue.cs" />
+    <Compile Include="ICloudQueueClient.cs" />
+    <Compile Include="ICloudQueueMessage.cs" />
     <Compile Include="ICloudStorageAccount.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
