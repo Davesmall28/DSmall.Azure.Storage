@@ -27,5 +27,12 @@
         {
             container.CreateIfNotExists();
         }
+
+        /// <summary>The set permissions.</summary>
+        /// <param name="permissions">The permissions.</param>
+        public void SetPermissions(BlobContainerPermissions permissions)
+        {
+            container.SetPermissions(permissions);
+        }
     }
 }
