@@ -1,6 +1,6 @@
 ﻿namespace DSmall.Azure.Storage
 {
-    using Microsoft.WindowsAzure;
+    using Microsoft.Azure;
     using Microsoft.WindowsAzure.Storage;
 
     /// <summary>The dSmall cloud storage account.</summary>
