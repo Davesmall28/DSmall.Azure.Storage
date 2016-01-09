@@ -1,0 +1,6 @@
+language: csharp
+solution: DSmall.Azure.Storage.sln
+install:
+  - nuget restore DSmall.Azure.Storage.sln
+script:
+  - xbuild /p:Configuration=Release DSmall.Azure.Storage.sln
