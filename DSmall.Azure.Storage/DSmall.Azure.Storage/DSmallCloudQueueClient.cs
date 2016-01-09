@@ -2,7 +2,7 @@
 {
     using Microsoft.WindowsAzure.Storage.Queue;
 
-    /// <summary>The d small cloud queue client.</summary>
+    /// <summary>The dSmall cloud queue client.</summary>
     public class DSmallCloudQueueClient : ICloudQueueClient
     {
         private readonly CloudQueueClient cloudQueueClient;

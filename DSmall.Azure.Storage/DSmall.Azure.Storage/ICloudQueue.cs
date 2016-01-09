@@ -2,7 +2,7 @@
 {
     using Microsoft.WindowsAzure.Storage.Queue;
 
-    /// <summary>The CloudQueue interface.</summary>
+    /// <summary>The cloud queue interface.</summary>
     public interface ICloudQueue
     {
         /// <summary>The add message.</summary>

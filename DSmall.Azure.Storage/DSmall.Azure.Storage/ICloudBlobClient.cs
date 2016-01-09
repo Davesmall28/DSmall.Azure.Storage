@@ -1,6 +1,6 @@
 ﻿namespace DSmall.Azure.Storage
 {
-    /// <summary>The CloudBlobClient interface.</summary>
+    /// <summary>The cloud blob client interface.</summary>
     public interface ICloudBlobClient
     {
         /// <summary>The get container reference.</summary>
