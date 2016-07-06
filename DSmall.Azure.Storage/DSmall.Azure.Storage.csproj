@@ -60,7 +60,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="DSmall.Azure.Storage.nuspec" />
-    <None Include="NuGetPush.bat" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
